@@ -28,7 +28,7 @@
   - Easy-to-read display integrated into the device.
 
 - **Water Purity Assessor**
-  - Detects harmful bacteria and chemicals in water.
+  - Detects the total dissolved solutes in water.
   - Provides instant feedback on water quality.
   - Portable and easy to use.
 

@@ -1,8 +1,9 @@
 # Hike Buddy
+**Project by Team Voltrix**
 
 ![hike buddy](https://github.com/user-attachments/assets/fa7b57f2-67c7-48a9-84aa-fb7a446e22f0)
 
-**Project by Team Voltrix**
+
 
 ---
 

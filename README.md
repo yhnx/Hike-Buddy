@@ -53,3 +53,10 @@ This repository contains all the essential files and resources related to the Hi
 4. **Presentations**:
    - Slide decks and presentations used by Team Voltrix to showcase the Hike Buddy project.
    - Marketing materials and pitch decks.
+
+## Team Voltrix
+- Yehen Asuramuni([@yhnx](https://github.com/yhnx))
+- Sineth Jayawardena ([@SinethS](https://github.com/SinethS))
+- Sakith Nethkalana([@Sakith2002](https://github.com/Sakith2002))
+- Oshada Nimantha ([@Oshada-Nimantha](https://github.com/Oshadha-Nimantha))
+

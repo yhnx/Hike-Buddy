@@ -14,6 +14,7 @@
 - **Torch**: A powerful flashlight with a 5-day battery life when continuously used.
 - **Compass**: An inbuilt compass to help you navigate through the wilderness.
 - **Water Purity Assessor**: An integrated water purity tester to ensure the water you find is safe to drink.
+- - **SOS Signalling**: A inbuilt button to alert a SOS signal for better visualization for rescuers 
 
 ---
 
@@ -23,6 +24,7 @@
   - High-lumen LED light.
   - Continuous operation for up to 5 days on a single charge.
   - Adjustable brightness settings.
+  - Acts as a emergency SOS flashlight (prebuilt button)
   
 - **Compass**
   - Accurate and reliable digital compass.
